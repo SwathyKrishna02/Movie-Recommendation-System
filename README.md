@@ -1,19 +1,14 @@
-# 🎈 Blank app template
+<h2>Project Overview</h2>
+The <b>Movie Recommendation System</b> is designed to provide personalized movie suggestions to users based on their selected movie. By analyzing similarities in movie genres, ratings, and other relevant factors, the system recommends movies or TV shows that align with the user's preferences.
 
-A simple Streamlit app template for you to modify!
+<h2> Key Features </h2>
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+<h2> Demo </h2> 
+For a live demonstration of the Movie Recommendation System, watch the following video: 
 
-### How to run it on your own machine
+<h2>Try the App</h2> 
+Explore the Movie Recommendation System yourself! This app is deployed on Streamlit. Click the link below to get started: <a href="https://laughing-carnival-wj7qqq4grxvfv57w-8501.app.github.dev/"> Movie Recommendation System App </a>
 
-1. Install the requirements
+<br/>
 
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+Note: When running the application for the first time, it may take some time as it creates necessary files and initializes the environment.
